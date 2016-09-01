@@ -24,5 +24,4 @@ javascript/
 
 Never stop reading ! 
 
-* [Sass Documentation](http://sass-lang.com/)
-* [SassDoc](http://sassdoc.com/)
+* [Why I use a Javascript styleguide](https://www.sitepoint.com/why-use-javascript-style-guide/)
