@@ -25,3 +25,6 @@ javascript/
 Never stop reading ! 
 
 * [Why I use a Javascript styleguide](https://www.sitepoint.com/why-use-javascript-style-guide/)
+
+### Other stylguides
+* [Javascript standards](http://standardjs.com/rules.html)
